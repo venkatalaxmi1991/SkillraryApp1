@@ -8,7 +8,7 @@ import org.testng.asserts.SoftAssert;
 import genericlibraries.BaseClass;
 import genericlibraries.IConstantPath;
 import pompages.AddNewCategoryPage;
-
+//athis test verifies if user is able to create category
 public class AddCategoryTest extends BaseClass {
 			@Test
 			public void addCategoryTest() throws InterruptedException {
