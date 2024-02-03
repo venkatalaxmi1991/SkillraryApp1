@@ -7,7 +7,7 @@ import org.testng.asserts.SoftAssert;
 
 import genericlibraries.BaseClass;
 import genericlibraries.IConstantPath;
-
+//This steps verify user is able to add course
 public class AddCourseTest extends BaseClass {
 	@Test
 	public void addCourseTest() throws InterruptedException {
