@@ -1,5 +1,5 @@
 package genericlibraries;
-// This is BaseClass
+// This is BaseClass in Generic Libraries
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.annotations.AfterClass;
