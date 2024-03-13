@@ -1,5 +1,5 @@
 package genericlibraries;
-
+// This is IconstantPath
 /**
  * This interface contains the paths of external files like properties and excel 
  * @author shalini
